@@ -136,7 +136,7 @@ def select_category():
             print(colored("Invalid input. Please enter a number.", "red"))
 
 # Main menu
-user = "Axo"
+user = "user"
 currency = "€"
 
 def main_menu():
